@@ -1,0 +1,11 @@
+# InteliJ
+/.idea/
+*.iml
+
+# build
+/build/
+*.class
+/target/
+
+# H2
+*.db

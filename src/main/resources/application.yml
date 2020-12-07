@@ -1,0 +1,38 @@
+debug: true
+spring:
+#  datasource:
+#    url: jdbc:h2:file:./test
+#    username: root
+#    password: root
+#    driverClassName: org.h2.Driver
+#    platform: h2
+#    hikari:
+#      maximum-pool-size: 20
+#      connection-timeout: 5000
+#    initialization-mode: embedded
+#  h2:
+#    console:
+#      enabled: true
+#      path: /h2
+  jpa:
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create
+
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 10MB
+
+  jdbc:
+    template:
+      query-timeout: 2m
+  profiles:
+    active:
+      - local
+
+#server:
+#  port: 8181
+#  servlet:
+#    context-path: /test

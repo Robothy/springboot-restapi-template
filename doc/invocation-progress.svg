@@ -1,0 +1,152 @@
+<svg height="402" xmlns="http://www.w3.org/2000/svg" width="1054" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1054 402">
+    <style type="text/css"><![CDATA[
+.st4 {fill:#000000;font-family:Verdana;font-size:12pt}
+.st1 {fill:#191919;font-family:Verdana;font-size:12pt}
+.st2 {fill:#191919;font-family:Verdana;font-size:8pt}
+.st3 {font-family:Arial;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-118.37,-61.62)">
+        <path stroke="#7c5bbd" id="shape1" stroke-dasharray="2.5,2.5" transform="matrix(0,1,-1,0,176.1,66)" d="M0,0L313.9,0" fill="none"/>
+        <g transform="matrix(-1,0,0,1,220.6,285.3)">
+            <path stroke="#000000" id="shape2" fill-rule="evenodd" d="M89,58.5L101.3,49.8L101.3,-8.7L89,0L89,58.5z" fill="#000000"/>
+            <path stroke="#000000" id="shape3" fill-rule="evenodd" d="M0,0L89,0L101.3,-8.7L12.3,-8.7L0,0z" fill="#000000"/>
+            <g id="shape4" transform="translate(0,-0.19)">
+                <path stroke="#000000" fill-rule="evenodd" d="M0,0L89,0L89,58.9L0,58.9L0,0z" fill="#ffffff"/>
+                <text class="st1" transform="matrix(-1,0,0,1,89,0)">
+                    <tspan x="13.6" y="25.4">HTTP 请</tspan>
+                    <tspan x="36.8" y="47.8">求</tspan>
+                </text>
+            </g>
+        </g>
+        <path stroke="#7c5bbd" id="shape5" stroke-dasharray="2.5,2.5" transform="matrix(-0,1,-1,-0,446,62.6)" d="M0,0L313.9,0" fill="none"/>
+        <g id="shape6" transform="translate(382,277.5)">
+            <path stroke="#000000" fill-rule="evenodd" d="M128,74L128,0L0,0L0,74L128,74z" fill="#ffffff"/>
+            <text class="st1">
+                <tspan x="26.4" y="43">XXXForm</tspan>
+            </text>
+        </g>
+        <path stroke="#7c5bbd" id="shape7" stroke-dasharray="2.5,2.5" transform="matrix(0,1,-1,0,661,66)" d="M0,0L298,0" fill="none"/>
+        <g id="shape8" transform="translate(597,265)">
+            <path stroke="#000000" fill-rule="evenodd" d="M128,198L128,0L0,0L0,198L128,198z" fill="#ffffff"/>
+            <text class="st1">
+                <tspan x="30.4" y="105">XXXDTO</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(382,376.5)">
+            <path stroke="#000000" fill-rule="evenodd" d="M128,74L128,0L0,0L0,74L128,74z" fill="#ffffff"/>
+            <text class="st1">
+                <tspan x="35.2" y="43">XXXVO</tspan>
+            </text>
+        </g>
+        <path stroke="#7c5bbd" id="shape10" stroke-dasharray="2.5,2.5" transform="matrix(0,1,-1,0,926,66)" d="M0,0L298,0" fill="none"/>
+        <g id="shape11" transform="translate(862,265)">
+            <path stroke="#000000" fill-rule="evenodd" d="M128,198L128,0L0,0L0,198L128,198z" fill="#ffffff"/>
+            <text class="st1">
+                <tspan x="23.2" y="105">XXXEntity</tspan>
+            </text>
+        </g>
+        <path stroke="#7c5bbd" id="shape12" stroke-dasharray="2.5,2.5" transform="matrix(0,1,-1,0,1147,66)" d="M0,0L313,0" fill="none"/>
+        <g id="shape13" transform="translate(1073.52,349)">
+            <path stroke="#000000" fill-rule="evenodd" d="M98,0L0,0L0,30L98,30M24.5,0L24.5,30L0,30L0,0L98,0L24.5,0z" fill="#ffffff"/>
+            <text class="st2">
+                <tspan x="35.1" y="19">数据库记录</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(990,314.5)">
+            <path stroke="#162940" d="M0,0L132.5,0L132.5,30.1" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M132.5,34.5L135.5,29.3C134.6,29.8,133.6,30.1,132.5,30.1C131.4,30.1,130.4,29.8,129.5,29.3L132.5,34.5" fill="#162940"/>
+            <rect x="36.2" height="16" y="-8" width="59.7" fill="#ffffff"/>
+            <text class="st3">
+                <tspan x="36.1" y="4">保存/更新</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(1122.52,379)">
+            <path stroke="#162940" d="M0,0L0,34.5L-128.1,34.5" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M-132.5,34.5L-127.3,37.5C-127.8,36.6,-128.1,35.6,-128.1,34.5C-128.1,33.4,-127.8,32.4,-127.3,31.5L-132.5,34.5" fill="#162940"/>
+            <rect x="-76" height="16.8" y="26.1" width="27.8" fill="#ffffff"/>
+            <text class="st3">
+                <tspan x="-76.1" y="38.9">查找</tspan>
+            </text>
+        </g>
+        <g transform="matrix(-1,0,0,1,220.6,384.3)">
+            <path stroke="#000000" id="shape16" fill-rule="evenodd" d="M89,58.5L101.3,49.8L101.3,-8.7L89,0L89,58.5z" fill="#000000"/>
+            <path stroke="#000000" id="shape17" fill-rule="evenodd" d="M0,0L89,0L101.3,-8.7L12.3,-8.7L0,0z" fill="#000000"/>
+            <g id="shape18" transform="translate(0,-0.19)">
+                <path stroke="#000000" fill-rule="evenodd" d="M0,0L89,0L89,58.9L0,58.9L0,0z" fill="#ffffff"/>
+                <text class="st1" transform="matrix(-1,0,0,1,89,0)">
+                    <tspan x="13.6" y="25.4">HTTP 响</tspan>
+                    <tspan x="36.8" y="47.8">应</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="shape19" transform="translate(597,413.5)">
+            <path stroke="#162940" d="M0,0L-82.6,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M-87,0L-81.8,3C-82.3,2.1,-82.6,1.1,-82.6,0C-82.6,-1.1,-82.3,-2.1,-81.8,-3L-87,0" fill="#162940"/>
+            <rect x="-55.3" height="22.4" y="-11.2" width="32.7" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="-55.4" y="7.2">转换</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(862,413.5)">
+            <path stroke="#162940" d="M0,0C-7.6,0,-15.2,0,-34.3,0C-53.3,0,-83.7,0,-102.8,0C-118.8,0,-126.7,0,-133.4,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M-137,0L-131.8,3C-132.3,2.1,-132.6,1.1,-132.6,0C-132.6,-1.1,-132.3,-2.1,-131.8,-3L-137,0" fill="#162940"/>
+            <rect x="-108" height="22.4" y="-11.2" width="98.1" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="-108.2" y="7.2">处理业务逻辑</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(510,314.5)">
+            <path stroke="#162940" d="M0,0L82.6,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M87,0L81.8,-3C82.3,-2.1,82.6,-1.1,82.6,0C82.6,1.1,82.3,2.1,81.8,3L87,0" fill="#162940"/>
+            <rect x="28" height="22.4" y="-11.2" width="32.7" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="27.9" y="7.2">校验</tspan>
+            </text>
+        </g>
+        <g id="shape22" transform="translate(725,314.5)">
+            <path stroke="#162940" d="M0,0C7.6,0,15.2,0,34.3,0C53.3,0,83.7,0,102.8,0C118.8,0,126.7,0,133.4,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M137,0L131.8,-3C132.3,-2.1,132.6,-1.1,132.6,0C132.6,1.1,132.3,2.1,131.8,3L137,0" fill="#162940"/>
+            <rect x="19.8" height="22.4" y="-11.2" width="98.1" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="19.7" y="7.2">处理业务逻辑</tspan>
+            </text>
+        </g>
+        <g id="shape23" transform="translate(382,413.5)">
+            <path stroke="#162940" d="M0,0L-157,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M-161.4,0L-156.2,3C-156.7,2.1,-157,1.1,-157,0C-157,-1.1,-156.7,-2.1,-156.2,-3L-161.4,0" fill="#162940"/>
+            <rect x="-126.1" height="20" y="-10" width="98.9" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="-126.2" y="6">JSON 序列化</tspan>
+            </text>
+        </g>
+        <g id="shape24" transform="translate(220.63,314.5)">
+            <path stroke="#162940" d="M0,0L157,0" fill="none"/>
+            <path stroke="#162940" stroke-linecap="round" stroke-width="1" d="M161.4,0L156.2,-3C156.7,-2.1,157,-1.1,157,0C157,1.1,156.7,2.1,156.2,3L161.4,0" fill="#162940"/>
+            <rect x="28" height="20" y="-10" width="115.3" fill="#ffffff"/>
+            <text class="st4">
+                <tspan x="27.8" y="6">JSON 反序列化</tspan>
+            </text>
+        </g>
+        <g id="shape25" transform="translate(486,158)">
+            <text class="st1">
+                <tspan x="3.2" y="41">XXXController</tspan>
+            </text>
+        </g>
+        <g id="shape26" transform="translate(227,158)">
+            <text class="st1">
+                <tspan x="3.2" y="41">HttpMessageConverter</tspan>
+            </text>
+        </g>
+        <g id="shape27" transform="translate(736.5,158)">
+            <text class="st1">
+                <tspan x="3.2" y="41">XXXService</tspan>
+            </text>
+        </g>
+        <g id="shape28" transform="translate(964,158)">
+            <text class="st1">
+                <tspan x="3.2" y="41">XXXRepository</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
